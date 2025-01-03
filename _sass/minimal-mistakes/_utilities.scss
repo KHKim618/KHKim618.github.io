@@ -242,6 +242,7 @@ $text-alignments: left, right, start, end, center, justify;
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
+  z-index: 2;
 
   &::before,
   &::after {
@@ -264,7 +265,7 @@ $text-alignments: left, right, start, end, center, justify;
   }
 }
 
-.close .navicon {
+.navicon.close {
   /* hide the middle line*/
   background: transparent;
 
