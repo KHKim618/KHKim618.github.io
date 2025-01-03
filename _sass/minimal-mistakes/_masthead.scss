@@ -38,14 +38,22 @@
   }
 }
 
+.menu-home {
+  display: inline-block;
+}
+
+.site-logo {
+  display: inline-block !important;
+  max-height: 2rem;
+}
+
 .site-logo img {
+  display: inline-block !important;
   max-height: 2rem;
 }
 
 .site-title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: inline-block !important;
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;

@@ -289,7 +289,7 @@ $text-alignments: left, right, start, end, center, justify;
   }
 }
 
-.greedy-nav__toggle {
+.nav-menu__toggle {
   &:before {
     @supports (pointer-events: none) {
       content: '';
@@ -316,7 +316,7 @@ $text-alignments: left, right, start, end, center, justify;
   }
 }
 
-.greedy-nav__toggle:hover {
+.nav-menu__toggle:hover {
   .navicon,
   .navicon:before,
   .navicon:after {
