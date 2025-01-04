@@ -1,0 +1,36 @@
+---
+layout: home
+author_profile: false
+---
+
+<h1>Publications</h1>
+<p>(Reviews and Book Chapters in <b class="goldtext">gold</b>, *: corresponding author)</p>
+<div class="publist">
+    {% for post in site.data.publications.current %}
+        {% assign classname="pubitem" %}
+        {% if post.review_or_book=="true" %}
+        {% assign classname="pubitem goldtext" %}
+        {% endif %}
+        <div class="{{classname}}">
+            <p>
+                <b>{{ post.author_list }} ({{ post.year }})</b> "{{ post.title }}" <i><b><u>{{ post.venue }}</u></b></i> {{
+                post.link }}
+            </p>
+        </div>
+    {% endfor %}
+</div>
+<h2>Prior to Purdue</h2>
+<div class="publist">
+    {% for post in site.data.publications.before_purdue %}
+        {% assign classname="pubitem" %}
+        {% if post.review_or_book=="true" %}
+        {% assign classname="pubitem goldtext" %}
+        {% endif %}
+        <div class="{{classname}}">
+            <p>
+                <b>{{ post.author_list }} ({{ post.year }})</b> "{{ post.title }}" <i><b><u>{{ post.venue }}</u></b></i> {{
+                post.link }}
+            </p>
+        </div>
+    {% endfor %}
+</div>
