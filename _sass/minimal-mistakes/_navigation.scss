@@ -176,7 +176,7 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: $nav-background-color;
 
   a {
     display: block;
@@ -267,7 +267,7 @@
     justify-content: space-between;
     .nav-links.show {
       visibility: visible;
-
+      background: $nav-background-color;
       -webkit-transition: $global-transition;
       transition: $global-transition;
     }
