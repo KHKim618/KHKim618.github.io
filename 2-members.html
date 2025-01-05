@@ -1,0 +1,50 @@
+---
+layout: home
+author_profile: false
+---
+<h1>Members</h1>
+<div class="person">
+    <p>
+        <b>Kee-Hong Kim, Ph.D.</b>
+        <br />
+        Principal Investigator
+        <br />
+        (765) 496-2330
+        <br />
+        keehong(at)purdue(dot)edu
+        <br />
+        <a href="https://ag.purdue.edu/department/foodsci/?strAlias=kim618&intDirDeptID=14">Faculty Profile</a>
+        <br />
+        <a href="https://www2.ag.purdue.edu/foodsci/Documents/cvs/kim618.pdf">CV</a>
+    </p>
+</div>
+
+{% for person in site.data.members %}
+    <div class="person">
+        <p>
+            <b>{{ person.name }}</b> ({{ person.dates }})
+            <br />
+            {{ person.position }}
+            <br />
+            {{ person.email }}
+        </p>
+    </div>
+{% endfor %}
+
+<h2>Alumni</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Dates</th>
+        <th>Position</th>
+        <th>Current Position</th>
+    </tr>
+    {% for person in site.data.former_members %}
+        <tr class="alum">
+            <td>{{ person.name }}</td>
+            <td>{{ person.dates }}</td>
+            <td>{{ person.position }}</td>
+            <td>{{ person.current_position }}</td>
+        </tr>
+    {% endfor %}
+</table>
