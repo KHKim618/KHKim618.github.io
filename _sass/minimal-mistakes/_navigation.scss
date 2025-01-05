@@ -184,8 +184,6 @@
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
-    -webkit-transition: none;
-    transition: none;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -258,6 +256,9 @@
           transform: scaleX(1); // reveal
         }
       }
+      .menu-home-link {
+        visibility: hidden;
+      }
     }
 
     &__toggle {
@@ -268,24 +269,27 @@
     justify-content: space-between;
     .nav-links.show {
       visibility: visible;
+      position: absolute;
+      top: -16px;
+      right: -16px;
       background: $nav-background-color;
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
+      -webkit-transition: $nav-mobile-transition;
+      transition: $nav-mobile-transition;
     }
     .nav-links {
       visibility: hidden;
       position: absolute;
       top: -16px;
-      right: -16px;
+      right: -100%;
       padding: 5px;
       padding-top: 69px;
       width: 100vw;
       height: 100vh;
-      background: $background-color;
+      background: $nav-background-color;
       z-index: 1;
 
-      -webkit-transition: $global-transition;
-      transition: $global-transition;
+      -webkit-transition: $nav-mobile-transition;
+      transition: $nav-mobile-transition;
   
       &.hidden {
         display: none;
@@ -301,15 +305,13 @@
           background: $navicon-link-color-hover;
         }
       }
-
-      &::before, &::after {
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-      }
   
       li {
         display: block;
       }
+    }
+    .menu-home-link {
+      visibility: visible;
     }
   }
   

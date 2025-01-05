@@ -7,14 +7,18 @@
               alt="{{ site.masthead_title | default: site.title }}"></a>
           <a class="site-title" href="{{ '/' | relative_url }}">
             {{ site.masthead_title | default: site.title }}
-            {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
           </a>
         </div>
 
         <ul class="nav-links">
+          <li class="masthead__menu-item menu-home-link">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              HOME
+            </a>
+          </li>
           {%- for link in site.data.navigation.main -%}
           <li class="masthead__menu-item">
-            <a href="{{ link.url | relative_url }}" {% if link.description %} title="{{ link.description }}" {% endif %}
+            <a class="nav-link" href="{{ link.url | relative_url }}" {% if link.description %} title="{{ link.description }}" {% endif %}
               {% if link.target %} target="{{ link.target }}" {% endif %}>{{ link.title | upcase }}</a>
           </li>
           {%- endfor -%}
