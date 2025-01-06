@@ -2,8 +2,9 @@
 layout: home
 author_profile: false
 ---
-<h1>Members</h1>
+<h1 class="title">Members</h1>
 <div class="person">
+    <img style="max-height: 240px;" src="/assets/img/Kee-Hong_Kim.jpg" alt="Kee-Hong Kim, Ph.D." />
     <p>
         <b>Kee-Hong Kim, Ph.D.</b>
         <br />
@@ -21,6 +22,7 @@ author_profile: false
 
 {% for person in site.data.members %}
     <div class="person">
+        <img style="max-height: 240px;" src="/assets/img/{{ person.photo }}" alt="{{ person.name }}" />
         <p>
             <b>{{ person.name }}</b> ({{ person.dates }})
             <br />

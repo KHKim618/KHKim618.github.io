@@ -2,6 +2,8 @@
 layout: home
 author_profile: false
 ---
+<h1 class="title">Research</h1>
+
 Fatty acids and cholesterol are essential for energy metabolism and are stored in lipid droplets (LDs) as neutral forms, specifically triglycerides (TGs) and cholesterol esters (CEs). Dysregulated anabolic and catabolic mechanisms of TG and CE storage often contribute to the pathophysiology of various metabolic diseases, including obesity, fatty liver disease, and muscle myopathies. Given the critical role of lipid metabolism in these disorders, the Kim lab focuses on combining bioactive food compounds and pharmacological small molecules to investigate:
 * The dietary regulation of autophagy-lysosome-dependent adipose lipolysis and its impact on adiposity and muscle atrophy
 * The effects of post-harvest processed parsnip on systemic lipid metabolism and inflammation

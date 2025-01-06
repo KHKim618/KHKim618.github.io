@@ -1,553 +1,643 @@
 before_purdue:
-- author_list: Kim, C.Y., and Kim, K.-H.
-  link: 54:2069-82
-  review_or_book: 'false'
-  title: Dexamethasone-induced selenoprotein S (SEPS1) degradation in the early stage
-    of differentiation is required for adipogenesis
-  venue: Journal of Lipid Research
-  year: '2013'
-- author_list: Chen, C.Y., Martorano, A., Moon, Y.S., and Kim, K.-H.
-  link: '287:44498-44507 (Media coverage: Purdue University news)'
-  review_or_book: 'false'
-  title: An Advanced Glycation End Products (AGEs)-the receptor for AGEs axis restores
-    adipogenic potential of senescent preadipocytes through modulation of p53 protein
-    function
-  venue: J Biol Chem.
-  year: '2012'
-- author_list: Kim, C.Y.*, Kim, G. N.*, Wiacek, J.*, Chen, C.Y., and Kim, K.-H.
-  link: 426:551-7
-  review_or_book: 'false'
-  title: Selenate inhibits adipogenesis through induction of transforming growth factor-beta1
-    signaling
-  venue: Biochemical and Biophysical Research Communications,
-  year: '2012'
-- author_list: Kim, K.-H., Kim, G. N., and Lee, K.W.
-  link: 391-406
-  review_or_book: 'true'
-  title: Phytochemicals in Prevention and Treatment of Obesity and Its Related Cancer
-  venue: 'Nutrition in the Prevention and Treatment of Disease, 3rd edition.Academic
-    Press, ISBN: 9780123918840,'
-  year: '2012'
-- author_list: Kwon, J.Y., Seo, S.G., Yue, S., Cheng, J.X., Lee, K.W., and Kim, K.-H.
-  link: 32:607-16 (2012 David Kritchevsky Graduate Student Award for Achievement in
-    Nutrition Research journal)
-  review_or_book: 'false'
-  title: An inhibitory effect of resveratrol in the mitotic clonal expansion and insulin
-    signaling pathway in the early phase of adipogenesis
-  venue: Nutrition Research
-  year: '2012'
-- author_list: Kwon, J.Y., Seo, S.G., Heo, Y.S., Yue, S., Cheng, J.X., Lee, K.W.,
-    and Kim, K.-H.
-  link: ''
-  review_or_book: 'false'
-  title: Piceatannol, a natural polyphenolic stilbene, inhibits adipogenesis via modulation
-    of mitotic clonal expansion and insulin receptor-dependent insulin signaling in
-    the early phase of differentiation
-  venue: 'J Biol Chem, 287:11566-11578 (Media coverage: Purdue University news, The
-    Journal and Courier, New York Daily News, YouTube and more).'
-  year: '2012'
-- author_list: Kim, K.-H., Park, Y.H.
-  link: 2:237-57
-  review_or_book: 'true'
-  title: Food components with anti-obesity effect
-  venue: Annual Review of Food Science and Technology,
-  year: '2011'
-- author_list: Kim, C.Y., Le, T., Chen, C.Y., Cheng, J.X., Kim, K.-H.
-  link: Biochem.22:910-20
-  review_or_book: 'false'
-  title: Curcumin inhibits adipogenesis through suppression of mitotic clonal expansion
-  venue: J. Nut.
-  year: '2011'
-- author_list: Kim, C.Y., Bordenave, N., Ferruzzi, M.G., Safavy, A., Kim, K.-H.
-  link: 59:1012-9
-  review_or_book: 'false'
-  title: Water-soluble curcumin conjugates exhibit improved bioavailability and anti-adipogenic
-    property in adipocytes
-  venue: Journal of Agricultural and Food Chemistry,
-  year: '2011'
-- author_list: Kim, K.-H.
-  link: 42:51-57
-  review_or_book: 'true'
-  title: Perspective in regulation of adipogenesis by bioactive food components
-  venue: Food Science and Industry,
-  year: '2009'
-- author_list: Jaworski, K., Ahmadian, M., Duncan, R.E., Sarkadi-Nagy, E., Varady,
-    K.A., Hellerstein, M.K., Lee, H.Y., Samuel, V.T., Shulman, G.I., Kim, K.-H., de
-    Val, S., Kang, C., Sul, H.S.
-  link: 15:159-168
-  review_or_book: 'false'
-  title: AdPLA ablation increases lipolysis and prevents obesity induced by high-fat
-    feeding or leptin deficiency
-  venue: Nature Medicine,
-  year: '2009'
-- author_list: Kim, K.-H., Gao, Y., Walder, K., Collier, G.R., Skelton, J., Kissebah,
-    A.H.
-  link: 354:127-132.
-  review_or_book: 'false'
-  title: SEPS1 protects RAW264.7 cells from pharmacological ER stress agent-induced
-    apoptosis
-  venue: Biochem. Biophys. Res. Commun.,
-  year: '2007'
-- author_list: Gao, Y., Hannan, N., Wanyoni, S., Konstantopolous, N., Pagnon, J.,
-    Feng, H.C., Jowett, J.B., Kim, K.-H., Walder, K., Collier, G.R.
-  link: 33:246-51
-  review_or_book: 'false'
-  title: Activation of the selenoprotein SEPS1 gene expression by pro-inflammatory
-    cytokines in HepG2 cells
-  venue: Cytokine
-  year: '2006'
-- author_list: Sakajiri S, O'Kelly J, Yin D, Miller C.W., Hofmann W.K., Oshimi K.,
-    Shih L.Y., Kim K.-H, Sul H.S., Jensen C.H., Teisner B., Kawamata N., Koeffler
-    H.P.
-  link: 19:1404-10.
-  review_or_book: 'false'
-  title: Dlk1 in normal and abnormal hematopoiesis
-  venue: Leukemia
-  year: '2005'
-- author_list: Kim, K.-H., Griffin, M.G., Villena, J.A., Sul, H.S.
-  link: 77-106
-  review_or_book: 'true'
-  title: Regulation of fat synthesis and adipogenesis
-  venue: Genomics and Proteomics in Nutrition (Nutrition in Health and Disease), Marcel
-    Dekker Inc., New York,
-  year: '2005'
-- author_list: Villena, J.A., Roy, S., Sarkadi-Nagy, E., Kim, K.-H., Sul, H.S.
-  link: 279:47066-75.
-  review_or_book: 'false'
-  title: Desnutrin, a new patatin-like adipocyte protein, is induced by fasting and
-    glucocorticoids and increases triglyceride hydrolysis
-  venue: J Biol Chem.
-  year: '2004'
-- author_list: Kim, K.-H., Zhao, L., Moon, Y., Kang, C., Sul, H.S.
-  link: 101:6780-85.
-  review_or_book: 'false'
-  title: Dominant inhibitory ADSF/Resistin enhances adipogenesis and improves insulin
-    sensitivity
-  venue: Proc Natl Acad Sci U S A
-  year: '2004'
-- author_list: Lee, K., Villena, J.A., Moon, Y.S., Kim, K.-H., Lee, S., Kang, C.,
-    and Sul, H.S.
-  link: 111:453-61.
-  review_or_book: 'false'
-  title: Soluble Pref-1 causes a decrease in adipose tissue and diabetes
-  venue: J Clinical Investigation
-  year: '2003'
-- author_list: Kim, K.-H., Moon, Y.S.
-  link: 16:1837-41.
-  review_or_book: 'false'
-  title: Molecular cloning of adipose tissue-specific genes by cDNA microarray
-  venue: Asian-Australian journal of Animal Sciences
-  year: '2003'
-- author_list: Villena, J.A., Kim, K.-H., Sul, H.S.
-  link: .
-  review_or_book: 'false'
-  title: 'Pref-1 and ADSF/Resistin: two secreted factors controlling adipose tissue
-    development'
-  venue: Hormone and Metabolic Research 34:664-70
-  year: '2002'
-- author_list: Moon, Y.S., Smas, C.M., Lee, K., Villena, J.A., Kim, K.-H., Yun, E.J.,
-    Sul, H.S.
-  link: 22:5585-92.
-  review_or_book: 'false'
-  title: Mice lacking paternally expressed pref-1/dlk1 display growth retardation
-    and accelerated adiposity
-  venue: Mol Cell Biol.
-  year: '2002'
-- author_list: Roder, K, Kim, K.-H, Sul, H.S.
-  link: 294:63-70.
-  review_or_book: 'false'
-  title: 'Induction of murine H-rev107 gene expression by growth arrest and histone
-    acetylation: involvement of an Sp1/Sp3-binding GC-box'
-  venue: Biochem Biophys Res Commun.
-  year: '2002'
-- author_list: Kim, K.-H., Lee, K., Moon, Y.S., Sul, H.S.
-  link: 276:11252-6.
-  review_or_book: 'false'
-  title: A cysteine-rich adipose tissue-specific secretory factor inhibits adipocyte
-    differentiation
-  venue: J Biol Chem.
-  year: '2001'
-- author_list: Latasa, M.J., Moon, Y.S., Kim, K.-H., Sul, H.S.
-  link: 97:10619-24.
-  review_or_book: 'false'
-  title: 'Nutritional regulation of the fatty acid synthase promoter in vivo: sterol
-    regulatory element binding protein functions through an upstream region containing
-    a sterol regulatory element'
-  venue: Proc Natl Acad Sci U S A.
-  year: '2000'
-- author_list: Moon, Y.S., Latasa, M.J., Kim, K.-H., Wang, D, Sul, H.S.
-  link: 275:10121-7.
-  review_or_book: 'false'
-  title: Two 5'-regions are required for nutritional and insulin regulation of the
-    fatty-acid synthase promoter in transgenic mice
-  venue: J. Biol Chem.
-  year: '2000'
-- author_list: Sul, H.S., Latasa, M.J., Moon, Y., Kim, K.-H.
-  link: 130(2S Suppl):315S-320S.
-  review_or_book: 'false'
-  title: Regulation of the fatty acid synthase promoter by insulin
-  venue: J Nutr.
-  year: '2000'
-- author_list: Kim, K.-S., Kim, K.-H., Storey, M.K., Voelker, D.R. and Carman, G.M.
-  link: 274:14857-66.
-  review_or_book: 'false'
-  title: Isolation and characterization of the Saccharomyces cerevisiae. EKI gene
-    encoding ethanolamine kinase
-  venue: J Biol Chem.
-  year: '1999'
-- author_list: Kim, K.-H., and Carman, G.M.
-  link: 274:9531-8.
-  review_or_book: 'false'
-  title: Phosphorylation and regulation of choline kinase from Saccharomyces cerevisiae
-  venue: J Biol Chem.
-  year: '1999'
-- author_list: Kim, K.-H., Voelker, D.R., Flocco, M.T., and Carman, G.M.
-  link: 6844-52.
-  review_or_book: 'false'
-  title: Expression, purification, and characterization of choline kinase, product
-    of the CKI gene from Saccharomyces cerevisiae
-  venue: 'J. Biol. Chem. 273:'
-  year: '1998'
+  - author_list: Kim, C.Y., and Kim, K.-H.
+    link: 54:2069-82
+    review_or_book: "false"
+    title:
+      Dexamethasone-induced selenoprotein S (SEPS1) degradation in the early stage
+      of differentiation is required for adipogenesis
+    venue: Journal of Lipid Research
+    year: "2013"
+  - author_list: Chen, C.Y., Martorano, A., Moon, Y.S., and Kim, K.-H.
+    link: "287:44498-44507 (Media coverage: Purdue University news)"
+    review_or_book: "false"
+    title:
+      An Advanced Glycation End Products (AGEs)-the receptor for AGEs axis restores
+      adipogenic potential of senescent preadipocytes through modulation of p53 protein
+      function
+    venue: J Biol Chem.
+    year: "2012"
+  - author_list: Kim, C.Y.*, Kim, G. N.*, Wiacek, J.*, Chen, C.Y., and Kim, K.-H.
+    link: 426:551-7
+    review_or_book: "false"
+    title:
+      Selenate inhibits adipogenesis through induction of transforming growth factor-beta1
+      signaling
+    venue: Biochemical and Biophysical Research Communications,
+    year: "2012"
+  - author_list: Kim, K.-H., Kim, G. N., and Lee, K.W.
+    link: "Academic
+      Press, ISBN: 9780123918840, 391-406"
+    review_or_book: "true"
+    title: Phytochemicals in Prevention and Treatment of Obesity and Its Related Cancer
+    venue: "Nutrition in the Prevention and Treatment of Disease, 3rd edition."
+    year: "2012"
+  - author_list: Kwon, J.Y., Seo, S.G., Yue, S., Cheng, J.X., Lee, K.W., and Kim, K.-H.
+    link:
+      32:607-16 (2012 David Kritchevsky Graduate Student Award for Achievement in
+      Nutrition Research journal)
+    review_or_book: "false"
+    title:
+      An inhibitory effect of resveratrol in the mitotic clonal expansion and insulin
+      signaling pathway in the early phase of adipogenesis
+    venue: Nutrition Research
+    year: "2012"
+  - author_list:
+      Kwon, J.Y., Seo, S.G., Heo, Y.S., Yue, S., Cheng, J.X., Lee, K.W.,
+      and Kim, K.-H.
+    link: ""
+    review_or_book: "false"
+    title:
+      Piceatannol, a natural polyphenolic stilbene, inhibits adipogenesis via modulation
+      of mitotic clonal expansion and insulin receptor-dependent insulin signaling in
+      the early phase of differentiation
+    venue:
+      "J Biol Chem, 287:11566-11578 (Media coverage: Purdue University news, The
+      Journal and Courier, New York Daily News, YouTube and more)."
+    year: "2012"
+  - author_list: Kim, K.-H., Park, Y.H.
+    link: 2:237-57
+    review_or_book: "true"
+    title: Food components with anti-obesity effect
+    venue: Annual Review of Food Science and Technology,
+    year: "2011"
+  - author_list: Kim, C.Y., Le, T., Chen, C.Y., Cheng, J.X., Kim, K.-H.
+    link: Biochem.22:910-20
+    review_or_book: "false"
+    title: Curcumin inhibits adipogenesis through suppression of mitotic clonal expansion
+    venue: J. Nut.
+    year: "2011"
+  - author_list: Kim, C.Y., Bordenave, N., Ferruzzi, M.G., Safavy, A., Kim, K.-H.
+    link: 59:1012-9
+    review_or_book: "false"
+    title:
+      Water-soluble curcumin conjugates exhibit improved bioavailability and anti-adipogenic
+      property in adipocytes
+    venue: Journal of Agricultural and Food Chemistry,
+    year: "2011"
+  - author_list: Kim, K.-H.
+    link: 42:51-57
+    review_or_book: "true"
+    title: Perspective in regulation of adipogenesis by bioactive food components
+    venue: Food Science and Industry,
+    year: "2009"
+  - author_list:
+      Jaworski, K., Ahmadian, M., Duncan, R.E., Sarkadi-Nagy, E., Varady,
+      K.A., Hellerstein, M.K., Lee, H.Y., Samuel, V.T., Shulman, G.I., Kim, K.-H., de
+      Val, S., Kang, C., Sul, H.S.
+    link: 15:159-168
+    review_or_book: "false"
+    title:
+      AdPLA ablation increases lipolysis and prevents obesity induced by high-fat
+      feeding or leptin deficiency
+    venue: Nature Medicine,
+    year: "2009"
+  - author_list:
+      Kim, K.-H., Gao, Y., Walder, K., Collier, G.R., Skelton, J., Kissebah,
+      A.H.
+    link: 354:127-132.
+    review_or_book: "false"
+    title:
+      SEPS1 protects RAW264.7 cells from pharmacological ER stress agent-induced
+      apoptosis
+    venue: Biochem. Biophys. Res. Commun.,
+    year: "2007"
+  - author_list:
+      Gao, Y., Hannan, N., Wanyoni, S., Konstantopolous, N., Pagnon, J.,
+      Feng, H.C., Jowett, J.B., Kim, K.-H., Walder, K., Collier, G.R.
+    link: 33:246-51
+    review_or_book: "false"
+    title:
+      Activation of the selenoprotein SEPS1 gene expression by pro-inflammatory
+      cytokines in HepG2 cells
+    venue: Cytokine
+    year: "2006"
+  - author_list:
+      Sakajiri S, O'Kelly J, Yin D, Miller C.W., Hofmann W.K., Oshimi K.,
+      Shih L.Y., Kim K.-H, Sul H.S., Jensen C.H., Teisner B., Kawamata N., Koeffler
+      H.P.
+    link: 19:1404-10.
+    review_or_book: "false"
+    title: Dlk1 in normal and abnormal hematopoiesis
+    venue: Leukemia
+    year: "2005"
+  - author_list: Kim, K.-H., Griffin, M.G., Villena, J.A., Sul, H.S.
+    link: ", Marcel Dekker Inc., New York, 77-106"
+    review_or_book: "true"
+    title: Regulation of fat synthesis and adipogenesis
+    venue: Genomics and Proteomics in Nutrition (Nutrition in Health and Disease)
+    year: "2005"
+  - author_list: Villena, J.A., Roy, S., Sarkadi-Nagy, E., Kim, K.-H., Sul, H.S.
+    link: 279:47066-75.
+    review_or_book: "false"
+    title:
+      Desnutrin, a new patatin-like adipocyte protein, is induced by fasting and
+      glucocorticoids and increases triglyceride hydrolysis
+    venue: J Biol Chem.
+    year: "2004"
+  - author_list: Kim, K.-H., Zhao, L., Moon, Y., Kang, C., Sul, H.S.
+    link: 101:6780-85.
+    review_or_book: "false"
+    title:
+      Dominant inhibitory ADSF/Resistin enhances adipogenesis and improves insulin
+      sensitivity
+    venue: Proc Natl Acad Sci U S A
+    year: "2004"
+  - author_list:
+      Lee, K., Villena, J.A., Moon, Y.S., Kim, K.-H., Lee, S., Kang, C.,
+      and Sul, H.S.
+    link: 111:453-61.
+    review_or_book: "false"
+    title: Soluble Pref-1 causes a decrease in adipose tissue and diabetes
+    venue: J Clinical Investigation
+    year: "2003"
+  - author_list: Kim, K.-H., Moon, Y.S.
+    link: 16:1837-41.
+    review_or_book: "false"
+    title: Molecular cloning of adipose tissue-specific genes by cDNA microarray
+    venue: Asian-Australian journal of Animal Sciences
+    year: "2003"
+  - author_list: Villena, J.A., Kim, K.-H., Sul, H.S.
+    link: .
+    review_or_book: "false"
+    title:
+      "Pref-1 and ADSF/Resistin: two secreted factors controlling adipose tissue
+      development"
+    venue: Hormone and Metabolic Research 34:664-70
+    year: "2002"
+  - author_list:
+      Moon, Y.S., Smas, C.M., Lee, K., Villena, J.A., Kim, K.-H., Yun, E.J.,
+      Sul, H.S.
+    link: 22:5585-92.
+    review_or_book: "false"
+    title:
+      Mice lacking paternally expressed pref-1/dlk1 display growth retardation
+      and accelerated adiposity
+    venue: Mol Cell Biol.
+    year: "2002"
+  - author_list: Roder, K, Kim, K.-H, Sul, H.S.
+    link: 294:63-70.
+    review_or_book: "false"
+    title:
+      "Induction of murine H-rev107 gene expression by growth arrest and histone
+      acetylation: involvement of an Sp1/Sp3-binding GC-box"
+    venue: Biochem Biophys Res Commun.
+    year: "2002"
+  - author_list: Kim, K.-H., Lee, K., Moon, Y.S., Sul, H.S.
+    link: 276:11252-6.
+    review_or_book: "false"
+    title:
+      A cysteine-rich adipose tissue-specific secretory factor inhibits adipocyte
+      differentiation
+    venue: J Biol Chem.
+    year: "2001"
+  - author_list: Latasa, M.J., Moon, Y.S., Kim, K.-H., Sul, H.S.
+    link: 97:10619-24.
+    review_or_book: "false"
+    title:
+      "Nutritional regulation of the fatty acid synthase promoter in vivo: sterol
+      regulatory element binding protein functions through an upstream region containing
+      a sterol regulatory element"
+    venue: Proc Natl Acad Sci U S A.
+    year: "2000"
+  - author_list: Moon, Y.S., Latasa, M.J., Kim, K.-H., Wang, D, Sul, H.S.
+    link: 275:10121-7.
+    review_or_book: "false"
+    title:
+      Two 5'-regions are required for nutritional and insulin regulation of the
+      fatty-acid synthase promoter in transgenic mice
+    venue: J. Biol Chem.
+    year: "2000"
+  - author_list: Sul, H.S., Latasa, M.J., Moon, Y., Kim, K.-H.
+    link: 130(2S Suppl):315S-320S.
+    review_or_book: "false"
+    title: Regulation of the fatty acid synthase promoter by insulin
+    venue: J Nutr.
+    year: "2000"
+  - author_list: Kim, K.-S., Kim, K.-H., Storey, M.K., Voelker, D.R. and Carman, G.M.
+    link: 274:14857-66.
+    review_or_book: "false"
+    title:
+      Isolation and characterization of the Saccharomyces cerevisiae. EKI gene
+      encoding ethanolamine kinase
+    venue: J Biol Chem.
+    year: "1999"
+  - author_list: Kim, K.-H., and Carman, G.M.
+    link: 274:9531-8.
+    review_or_book: "false"
+    title: Phosphorylation and regulation of choline kinase from Saccharomyces cerevisiae
+    venue: J Biol Chem.
+    year: "1999"
+  - author_list: Kim, K.-H., Voelker, D.R., Flocco, M.T., and Carman, G.M.
+    link: 6844-52.
+    review_or_book: "false"
+    title:
+      Expression, purification, and characterization of choline kinase, product
+      of the CKI gene from Saccharomyces cerevisiae
+    venue: "J. Biol. Chem. 273:"
+    year: "1998"
 current:
-- author_list: Lee, K., Pan, J.H., Choi, L.Y., Ju, J., Le, B., Williams, L.C., Cho,
-    T.J., Lee, E., Yoon, J.S., Park, C.L., Kim, S.Y., Yeon, S.H., Kim, J., Choi, M.,
-    Kim, K., Kim, K.-H*., Kim, J.K*.
-  link: '(DOI: 10.3389/fnut.2024.1507886)'
-  review_or_book: 'false'
-  title: Post-harvest processed parsnip showed improved anti-oxidative capacity and
-    protective potential against acrolein-induced inflammation in vitro and in vivo
-  venue: Front Nutr
-  year: '2024'
-- author_list: Mayakrishnan, V., Lee, D.-H., Kim, K.-H., Kim, C.Y*.
-  link: '(DOI: 10.3390/nu16121924)'
-  review_or_book: 'false'
-  title: Role of Corn Peptide Powder in Lipopolysaccharide-Induced Inflammatory Responses
-    in 3T3-L1 Adipocytes
-  venue: Nutrients
-  year: '2024'
-- author_list: Sant' Ana, C.T., Ju, J., Ribeiro de Barros, F.A., Kim, K.-H*.
-  link: (DOI:10.1111/1750-3841.17224)
-  review_or_book: 'false'
-  title: Macauba (Acrocomia aculeata) pulp oil reduces fat accumulation and enhances
-    the lifespan of Caenorhabditis elegans at low temperatures via fat-1- and fat-7-dependent
-    pathway
-  venue: J Food Sci
-  year: '2024'
-- author_list: Xiao X, Huang S, Yang Z, Zhu Y, Zhu L, Zhao Y, Bai J*, Kim K.-H*.
-  link: '(DOI: 10.1089/jmf.2024.k.0037)'
-  review_or_book: 'true'
-  title: 'Momordica charantia Bioactive Components: Hypoglycemic and Hypolipidemic
-    Benefits Through Gut Health Modulation'
-  venue: J Med Food
-  year: '2024'
-- author_list: Kim, S.Q., Kim, J., Choi, M., Kim, Y., Kim, S., Kim, K,-H*.
-  link: (DOI:10.1016/j.bbrc.2023.149164)
-  review_or_book: 'false'
-  title: 'Effect of combined administration of Acyl-CoA: Cholesterol acyltransferase
-    1 inhibitor and glucagon-like peptide 1 receptor agonist on a rodent model of
-    diet-induced obesity'
-  venue: Biochem Biophys Res Commun
-  year: '2023'
-- author_list: Uribizo-Reyes, U., Liceaga, A.M., Reddivari, L., Kim, K.-H., Cox. A.D.,
-    Anderson, J.M*.
-  link: (DOI:10.3390/ijms232314927)
-  review_or_book: 'false'
-  title: Canary seed (Phalaris canariensis L.) peptides prevent obesity and glucose
-    intolerance in mice fed a western diet
-  venue: Int J Mol Sci
-  year: '2022'
-- author_list: Kim, S.Q., Mohallem, R., Franco, J., Buhman, K.K., Kim, K.-H., Aryal,
-    U.K*.
-  link: '(DOI: 10.1016/j.bbrc.2022.08.070)'
-  review_or_book: 'false'
-  title: Global landscape of protein complexes in postprandial-state livers from diet-induced
-    obese and lean mice
-  venue: Biochem Biophys Res Commun
-  year: '2022'
-- author_list: Kim. S.Q., Kim, K.-H*.
-  link: (DOI:10.3390/cells11142232)
-  review_or_book: 'trye'
-  title: 'Emergence of Edible Plant-Derived Nanovesicles as Functional Food Components
-    and Nanocarriers for Therapeutics Delivery: Potentials in Human Health and Disease'
-  venue: Cells
-  year: '2022'
-- author_list: Uribizo-Reyes, U., Kim, K.-H., Reddivari, L., Anderson, J.M., Liceaga,
-    A.M.*
-  link: '(DOI: 10.3390/nu14122415)'
-  review_or_book: 'false'
-  title: Oxidative stress protection of canary seed (Phalaris canariensis L.) peptides
-    in a Caenorhabditis elegans model
-  venue: Nutrients
-  year: '2022'
-- author_list: Kershaw, J,C., Elzey, B.D., Guo, X., Kim, K.-H*.
-  link: (DOI:10.3390/nu14112306)
-  review_or_book: 'false'
-  title: Piceatannol, a Dietary Polyphenol, Alleviates Adipose Tissue Loss in Pre-Clinical
-    Model of Cancer-Associated Cachexia via Lipolysis Inhibition
-  venue: Nutrients
-  year: '2022'
-- author_list: Kim, S.Q., Mohallem, R., Franco, J., Buhman, K., Kim, K.-H., Aryal,
-    U.K*.
-  link: (DOI:10.3390/cells11071172)
-  review_or_book: 'false'
-  title: Multi-omics approach reveals dysregulation of protein phosphorylation correlated
-    with lipid metabolism in mouse fatty liver
-  venue: Cells
-  year: '2022'
-- author_list: Kwon, J.Y., Kershaw, J., Chen, C.Y., Komanetsky, S.M., Zhu, Y., Guo,
-    X., Myer, P.R., Applegate, B., Kim, K.-H*.
-  link: (DOI:10.1016/j.jnutbio.2022.108998)
-  review_or_book: 'false'
-  title: Piceatannol Antagonizes Lipolysis by Promoting Autophagy-Lysosome-Dependent
-    Degradation of Lipolytic Protein Clusters in Adipocytes
-  venue: Journal of Nutritional Biochemistry
-  year: '2022'
-- author_list: Urbizo-Reyes, U., Liceaga, A.M., Reddivari, L., Kim, K.-H., Anderson,
-    J.M*.
-  link: (DOI:10.1016/j.jff.2021.104892)
-  review_or_book: 'false'
-  title: Enzyme kinetics, molecular docking, and in silico characterization of canary
-    seed (Phalaris canariensis L.) peptides with ACE and pancreatic lipase inhibitory
-    activity
-  venue: J. Functional Foods
-  year: '2022'
-- author_list: Zhu, Y., Kim, S.Q., Zhang, Y., Liu, Q., Kim, K.-H*.
-  link: '(DOI: 10.1016/j.metabol.2021.154861)'
-  review_or_book: 'false'
-  title: 'Pharmacological inhibition of acyl-coenzyme A: cholesterol acyltransferase
-    alleviates obesity and insulin resistance in diet-induced obese mice by regulating
-    food intake'
-  venue: Metabolism
-  year: '2021'
-- author_list: Yue, Y., Wang, J., Shen, P., Kim, K.-H., Park, Y*.
-  link: '(DOI: 10.1016/j.fct.2021.112238)'
-  review_or_book: 'false'
-  title: Methylglyoxal influences development of Caenorhabditis elegans via lin-41-dependent
-    pathway
-  venue: Food and Chemical Toxicology
-  year: '2021'
-- author_list: Jiang, A., Yin, D., Zhang, L., Li, B., Li, R., Zhang, X., Zhang, Z.,
-    Liu, H., Kim, K.-H., Wu, W*.
-  link: (DOI:10.1111/age.13064)
-  review_or_book: 'false'
-  title: Parsing the microRNA genetics basis regulating skeletal muscle fiber types
-    and meat quality traits in pigs
-  venue: Animal Genetics
-  year: '2021'
-- author_list: Bai, J., Farias-Pereira, R., Jang, M., Zhang, Y., Lee, S.M., Kim, Y.-S.,
-    Park, Y., Ahn, J.B., Kim, G.-H., Kim, K.-H.
-  link: (DOI:10.1007/s11095-020-02975-w)
-  review_or_book: 'false'
-  title: Azelaic acid promotes Caenorhabditis elegans longevity at low temperature
-    via an increase in fatty acid desaturation
-  venue: Pharmaceutical Research
-  year: '2021'
-- author_list: Wu, W., Zhang, Z., Chao, Z., Li, B., Li, R., Jiang, A., Kim, K.-H.,
-    Liu, H.
-  link: '(DOI: 10.1016/j.gene.2020.145157)'
-  review_or_book: 'false'
-  title: Transcriptome analysis reveals the genetic basis of skeletal muscle glycolytic
-    potential based on a pig model
-  venue: Gene
-  year: '2020'
-- author_list: Pan, J.H., Tang, J., Kim, Y.J., Lee, J.H., Shin, E.-C., Zhao, J., Kim,
-    K.-H., Hwang, K.A., Huang, Y., Kim, J.K.
-  link: '(DOI: 10.3390/ijms21165596)'
-  review_or_book: 'false'
-  title: IDH2 deficiency is critical in myogenesis and fatty acid metabolism in mice
-    skeletal muscle
-  venue: Int J Mol Sci
-  year: '2020'
-- author_list: Li, R., Li, B., Jiang, A., Cao, Y., Hou, L., Zhang, Z., Zhang, X.,
-    Liu, H., Kim, K.-H., Wu, W.
-  link: '(DOI: 10.3390/genes11080883)'
-  review_or_book: 'false'
-  title: Exploring the lncRNAs related to skeletal muscle fiber types and meat quality
-    traits in pigs
-  venue: Genes
-  year: '2020'
-- author_list: Farias-Pereira, R., Zhang, Z., Park, C.S., Kim, D., Kim, K.-H.,Park,
-    Y.
-  link: '(DOI: 10.1002/biof.1667)'
-  review_or_book: 'false'
-  title: Butein Inhibits Lipogenesis in Caenorhabditis elegans
-  venue: Biofactors
-  year: '2020'
-- author_list: Bai, J., Farias-Pereira, R., Zhang, Y., Jang, M., Park, Y., Kim, K.-H.
-  link: '(DOI: 10.1002/biof.1666)'
-  review_or_book: 'false'
-  title: C. elegans ACAT regulates lipolysis and its-related lifespan in fasting through
-    modulation of the genes in lipolysis and insulin/IGF-1 signaling
-  venue: Biofactors
-  year: '2020'
-- author_list: Komanetsky, S.M., Hedrick, V., Sobreira, T., Aryal, U.K., Kim, S.Q.,
-    Kim, K.-H.
-  link: '(DOI: 10.1016/j.nutres.2020.06.009)'
-  review_or_book: 'false'
-  title: Proteomic identification of aerobic glycolysis as a potential metabolic target
-    for methylglyoxal in adipocytes
-  venue: Nutrition Research
-  year: '2020'
-- author_list: Yang, J.S, Tongson, J., Kim, K.-H., Park, Y.
-  link: 3:92-99
-  review_or_book: 'false'
-  title: Piceatannol attenuates fat accumulation and oxidative stress in steatosis-induced
-    HepG2 cells
-  venue: Current Research in Food Science
-  year: '2020'
-- author_list: Wang, Y., Zhang, Y., Kim, K.-H., Chen, J.
-  link: (FEDSM2020-20177)
-  review_or_book: 'false'
-  title: Measurements of morphology and locomotion of Caenorhabditis elegans with
-    digital holographic microscopy
-  venue: American Society of Mechanical Engineers
-  year: '2020'
-- author_list: Jang, M., Kim, K.-H., Kim, G.-H.
-  link: '(DOI: 10.3390/antiox9030200)'
-  review_or_book: 'false'
-  title: Antioxidant capacity of Thistle (Cirsium japonicum) in various drying methods
-    and their protective effect on neuronal PC12 cells and Caenorhabditis elegans
-  venue: Antioxidants
-  year: '2020'
-- author_list: Yue, Y., Shen, P., Chang, A., Qi, W., Kim, K.-H., Kim, D., Park, Y.
-  link: 10:4966-4974
-  review_or_book: 'false'
-  title: Trans-Trimethoxy resveratrol decreased fat accumulation dependent on fat-6
-    and fat-7 in Caenorhabditis elegans
-  venue: Food & Function
-  year: '2019'
-- author_list: Maldonado, L., Chough, S., Bonilla, J., Kim, K.-H., Kokini, J.
-  link: 93:293-307
-  review_or_book: 'false'
-  title: Mechanism of fabrication and nano-mechanical properties of alpha-lactalbumin/chitosan
-    and BSA/kappa-carrageenan nanotubes through layer-by-layer assembly for curcumin
-    encapsulation and determination of in vitro cytotoxicity
-  venue: Food Hydrocolloids
-  year: '2019'
-- author_list: Kim, C.Y., Kim, K.-H.
-  link: 23:2882
-  review_or_book: 'false'
-  title: Selenate prevents adipogenesis through induction of selenoprotein S and attenuation
-    of endoplasmic reticulum stress
-  venue: Molecules
-  year: '2018'
-- author_list: Farias-Pereira, R.,Oshiro, J., Kim, K.-H., Park, Y.
-  link: 48:586-593
-  review_or_book: 'false'
-  title: Green coffee bean extract and 5-O-caffeoylquinic acid regulate fat metabolism
-    in Caenorhabditis elegans
-  venue: Journal of Functional Foods
-  year: '2018'
-- author_list: Larrick, B., Kim, K.-H., Donkin, S., Teegarden, D.
-  link: 58:72-83
-  review_or_book: 'false'
-  title: 1,25-Dihydroxyvitamin D regulates lipid metabolism and glucose utilization
-    in differentiated 3T3-L1 adipocytes
-  venue: Nutrition Research
-  year: '2018'
-- author_list: Zhu, Y., Chen, C.-Y., Li, J., Cheng, J.-X., Jang, M., Kim, K.-H.
-  link: 59:820-829
-  review_or_book: 'false'
-  title: In vitro exploration of ACAT contributions to lipid droplet formation during
-    adipogenesis
-  venue: Journal of Lipid Research
-  year: '2018'
-- author_list: Shen, P., Kershaw, J.C., Yue, Y., Wang, O., Kim, K.-H., McClements,
-    D.J., Park, Y.
-  link: 249:193-201
-  review_or_book: 'false'
-  title: Effect of conjugated linoleic acid on fat accumulation, activity, and proteomics
-    analysis in Caenorhabditis elegans
-  venue: Food Chemistry
-  year: '2018'
-- author_list: Yang, H., Seo, S.G., Shin, S.H., Min, S., Kang M.J., Yoo, R., Kwon,
-    J.Y., Yue, S., Kim, K.-H., Cheng, J.X., Kim, J.R., Park, J.S., Kim, J.H., Park,
-    J.H.Y, Lee, H.J., Lee, K.W.
-  link: https://doi.org/10.1002/mnfr.201700119
-  review_or_book: 'false'
-  title: 3,3'-Diindolylmethane suppresses high-fat diet-induced obesity through inhibiting
-    adipogenesis of pre-adipocytes by targeting USP2 activity
-  venue: Molecular Nutrition and Food Research 61, 1700119.
-  year: '2017'
-- author_list: Shen, P., Yue, Y., Kim, K.-H., Park, Y.
-  link: 9:887-894
-  review_or_book: 'false'
-  title: Piceatannol reduces fat accumulation in Caenorhabditis elegans
-  venue: Journal of Medicinal Food
-  year: '2017'
-- author_list: Kershaw, J., Kim, K.-H.
-  link: 5:427-438
-  review_or_book: 'true'
-  title: The therapeutic potential of piceatannol, a natural stilbene, in metabolic
-    diseases-a review
-  venue: Journal of Medicinal Food
-  year: '2017'
-- author_list: Shen, P., Yue, Y., Sun, Q., Kasireddy, N., Kim, K.-H., Park, Y.
-  link: 43:379-387
-  review_or_book: 'false'
-  title: Piceatannol extends the lifespan of Caenorhabditis elegans via DAF-16
-  venue: Biofactors
-  year: '2017'
-- author_list: Kim, C.Y., Zhu, Y., Buhman, K.K., Kim, K.-H.
-  link: 17:33-42
-  review_or_book: 'false'
-  title: Dietary selenate attenuates adiposity and improves insulin sensitivity in
-    high-fat diet-induced obese mice
-  venue: Journal of Functional Foods
-  year: '2015'
-- author_list: Wang, Y., Lee, K., Moon, Y.S., Ahmadian, M., Kim, K.-H., Roder, K.,
-    Kang, C., Sul, H.S.
-  link: 461:630-635
-  review_or_book: 'false'
-  title: Overexpression of Pref-1 in pancreatic islet beta-cells in mice causes hyperinsulinemia
-    with increased islet mass and insulin secretion
-  venue: Biochemical and Biophysical Research Communications
-  year: '2015'
-- author_list: Malaypally, S.P., Liceaga, A., Kim, K.-H., Ferruzzi, M., San Martin,
-    F., Goforth, R.
-  link: 18:1158-1166
-  review_or_book: 'false'
-  title: Influence of molecular weight and peptide sequence on intracellular antioxidant
-    activity of invasive Silver Carp (Hypophthalmichthys molitrix) protein hydrolysates
-  venue: Journal of Functional Foods
-  year: '2015'
-- author_list: Shin, S.H., Seo, S.G., Min, S., Yang, H., Lee, D.E., Kwon, J.Y., Yue,
-    S., Kim, K.-H., Cheng, J.-X., Lee, H.J., Lee, K.W.
-  link: 62:4306-12
-  review_or_book: 'false'
-  title: Caffeic acid phenethyl ester, a major component of propolis, suppresses high
-    fat diet-induced obesity through inhibiting adipogenesis at the mitotic clonal
-    expansion stage
-  venue: Journal of Agricultural and Food Chemistry
-  year: '2014'
-- author_list: Park, J.G., Lee, D.H., Moon, Y.S., Kim, K.-H.
-  link: 446:30-6
-  review_or_book: 'false'
-  title: Reversine increases the plasticity of lineage-committed preadipocytes to
-    osteogenesis by inhibiting adipogenesis through induction of TGF-beta pathway
-    in vitro
-  venue: Biochemical and Biophysical Research Communications
-  year: '2014'
-- author_list: Cheng, M.W., Chegeni, M., Zhang, G., Kim, K.-H., Benmoussa, M., Quezada-Calvillo,
-    R., Nichols, B.L., Hamaker, B.R.
-  link: 54:55-60
-  review_or_book: 'false'
-  title: Different sucrose-isomaltase response of Caco-2 cells to glucose and maltose
-    suggests dietary maltose sensing
-  venue: J. Clinical Biochemistry and Nutrition
-  year: '2014'
-- author_list: Kim, C.Y., and Kim, K.-H.
-  link: 25:26-35
-  review_or_book: 'false'
-  title: Curcumin prevents leptin-induced tight junction dysfunction in intestinal
-    Caco-2 BBe cells
-  venue: J. Nut. Biochem
-  year: '2014'
-- author_list: Seo, S.G., Shin, S.H., Min, S., Lee, D.E., Kwon, J.Y., Yang, H., Yue,
-    S., Heo, Y.S., Kim, K.-H., Cheng, J.-X., Lee, K.W., Lee, H.J.
-  link: 57:1446-55
-  review_or_book: 'false'
-  title: A metabolite of diadzein 6,7,4'-Trihydroxyisoflavone suppresses adipogenesis
-    in 3T3-L1 preadipocytes via ATP-competitive inhibition of PI3K
-  venue: Molecular Nutrition and Food Research
-  year: '2013'
+  - author_list:
+      Lee, K., Pan, J.H., Choi, L.Y., Ju, J., Le, B., Williams, L.C., Cho,
+      T.J., Lee, E., Yoon, J.S., Park, C.L., Kim, S.Y., Yeon, S.H., Kim, J., Choi, M.,
+      Kim, K., Kim, K.-H*., Kim, J.K*.
+    link: "(DOI: 10.3389/fnut.2024.1507886)"
+    review_or_book: "false"
+    title:
+      Post-harvest processed parsnip showed improved anti-oxidative capacity and
+      protective potential against acrolein-induced inflammation in vitro and in vivo
+    venue: Front Nutr
+    year: "2024"
+  - author_list: Mayakrishnan, V., Lee, D.-H., Kim, K.-H., Kim, C.Y*.
+    link: "(DOI: 10.3390/nu16121924)"
+    review_or_book: "false"
+    title:
+      Role of Corn Peptide Powder in Lipopolysaccharide-Induced Inflammatory Responses
+      in 3T3-L1 Adipocytes
+    venue: Nutrients
+    year: "2024"
+  - author_list: Sant' Ana, C.T., Ju, J., Ribeiro de Barros, F.A., Kim, K.-H*.
+    link: (DOI:10.1111/1750-3841.17224)
+    review_or_book: "false"
+    title:
+      Macauba (Acrocomia aculeata) pulp oil reduces fat accumulation and enhances
+      the lifespan of Caenorhabditis elegans at low temperatures via fat-1- and fat-7-dependent
+      pathway
+    venue: J Food Sci
+    year: "2024"
+  - author_list: Xiao X, Huang S, Yang Z, Zhu Y, Zhu L, Zhao Y, Bai J*, Kim K.-H*.
+    link: "(DOI: 10.1089/jmf.2024.k.0037)"
+    review_or_book: "true"
+    title:
+      "Momordica charantia Bioactive Components: Hypoglycemic and Hypolipidemic
+      Benefits Through Gut Health Modulation"
+    venue: J Med Food
+    year: "2024"
+  - author_list: Kim, S.Q., Kim, J., Choi, M., Kim, Y., Kim, S., Kim, K,-H*.
+    link: (DOI:10.1016/j.bbrc.2023.149164)
+    review_or_book: "false"
+    title:
+      "Effect of combined administration of Acyl-CoA: Cholesterol acyltransferase
+      1 inhibitor and glucagon-like peptide 1 receptor agonist on a rodent model of
+      diet-induced obesity"
+    venue: Biochem Biophys Res Commun
+    year: "2023"
+  - author_list:
+      Uribizo-Reyes, U., Liceaga, A.M., Reddivari, L., Kim, K.-H., Cox. A.D.,
+      Anderson, J.M*.
+    link: (DOI:10.3390/ijms232314927)
+    review_or_book: "false"
+    title:
+      Canary seed (Phalaris canariensis L.) peptides prevent obesity and glucose
+      intolerance in mice fed a western diet
+    venue: Int J Mol Sci
+    year: "2022"
+  - author_list:
+      Kim, S.Q., Mohallem, R., Franco, J., Buhman, K.K., Kim, K.-H., Aryal,
+      U.K*.
+    link: "(DOI: 10.1016/j.bbrc.2022.08.070)"
+    review_or_book: "false"
+    title:
+      Global landscape of protein complexes in postprandial-state livers from diet-induced
+      obese and lean mice
+    venue: Biochem Biophys Res Commun
+    year: "2022"
+  - author_list: Kim. S.Q., Kim, K.-H*.
+    link: (DOI:10.3390/cells11142232)
+    review_or_book: "trye"
+    title:
+      "Emergence of Edible Plant-Derived Nanovesicles as Functional Food Components
+      and Nanocarriers for Therapeutics Delivery: Potentials in Human Health and Disease"
+    venue: Cells
+    year: "2022"
+  - author_list:
+      Uribizo-Reyes, U., Kim, K.-H., Reddivari, L., Anderson, J.M., Liceaga,
+      A.M.*
+    link: "(DOI: 10.3390/nu14122415)"
+    review_or_book: "false"
+    title:
+      Oxidative stress protection of canary seed (Phalaris canariensis L.) peptides
+      in a Caenorhabditis elegans model
+    venue: Nutrients
+    year: "2022"
+  - author_list: Kershaw, J,C., Elzey, B.D., Guo, X., Kim, K.-H*.
+    link: (DOI:10.3390/nu14112306)
+    review_or_book: "false"
+    title:
+      Piceatannol, a Dietary Polyphenol, Alleviates Adipose Tissue Loss in Pre-Clinical
+      Model of Cancer-Associated Cachexia via Lipolysis Inhibition
+    venue: Nutrients
+    year: "2022"
+  - author_list:
+      Kim, S.Q., Mohallem, R., Franco, J., Buhman, K., Kim, K.-H., Aryal,
+      U.K*.
+    link: (DOI:10.3390/cells11071172)
+    review_or_book: "false"
+    title:
+      Multi-omics approach reveals dysregulation of protein phosphorylation correlated
+      with lipid metabolism in mouse fatty liver
+    venue: Cells
+    year: "2022"
+  - author_list:
+      Kwon, J.Y., Kershaw, J., Chen, C.Y., Komanetsky, S.M., Zhu, Y., Guo,
+      X., Myer, P.R., Applegate, B., Kim, K.-H*.
+    link: (DOI:10.1016/j.jnutbio.2022.108998)
+    review_or_book: "false"
+    title:
+      Piceatannol Antagonizes Lipolysis by Promoting Autophagy-Lysosome-Dependent
+      Degradation of Lipolytic Protein Clusters in Adipocytes
+    venue: Journal of Nutritional Biochemistry
+    year: "2022"
+  - author_list:
+      Urbizo-Reyes, U., Liceaga, A.M., Reddivari, L., Kim, K.-H., Anderson,
+      J.M*.
+    link: (DOI:10.1016/j.jff.2021.104892)
+    review_or_book: "false"
+    title:
+      Enzyme kinetics, molecular docking, and in silico characterization of canary
+      seed (Phalaris canariensis L.) peptides with ACE and pancreatic lipase inhibitory
+      activity
+    venue: J. Functional Foods
+    year: "2022"
+  - author_list: Zhu, Y., Kim, S.Q., Zhang, Y., Liu, Q., Kim, K.-H*.
+    link: "(DOI: 10.1016/j.metabol.2021.154861)"
+    review_or_book: "false"
+    title:
+      "Pharmacological inhibition of acyl-coenzyme A: cholesterol acyltransferase
+      alleviates obesity and insulin resistance in diet-induced obese mice by regulating
+      food intake"
+    venue: Metabolism
+    year: "2021"
+  - author_list: Yue, Y., Wang, J., Shen, P., Kim, K.-H., Park, Y*.
+    link: "(DOI: 10.1016/j.fct.2021.112238)"
+    review_or_book: "false"
+    title:
+      Methylglyoxal influences development of Caenorhabditis elegans via lin-41-dependent
+      pathway
+    venue: Food and Chemical Toxicology
+    year: "2021"
+  - author_list:
+      Jiang, A., Yin, D., Zhang, L., Li, B., Li, R., Zhang, X., Zhang, Z.,
+      Liu, H., Kim, K.-H., Wu, W*.
+    link: (DOI:10.1111/age.13064)
+    review_or_book: "false"
+    title:
+      Parsing the microRNA genetics basis regulating skeletal muscle fiber types
+      and meat quality traits in pigs
+    venue: Animal Genetics
+    year: "2021"
+  - author_list:
+      Bai, J., Farias-Pereira, R., Jang, M., Zhang, Y., Lee, S.M., Kim, Y.-S.,
+      Park, Y., Ahn, J.B., Kim, G.-H., Kim, K.-H.
+    link: (DOI:10.1007/s11095-020-02975-w)
+    review_or_book: "false"
+    title:
+      Azelaic acid promotes Caenorhabditis elegans longevity at low temperature
+      via an increase in fatty acid desaturation
+    venue: Pharmaceutical Research
+    year: "2021"
+  - author_list:
+      Wu, W., Zhang, Z., Chao, Z., Li, B., Li, R., Jiang, A., Kim, K.-H.,
+      Liu, H.
+    link: "(DOI: 10.1016/j.gene.2020.145157)"
+    review_or_book: "false"
+    title:
+      Transcriptome analysis reveals the genetic basis of skeletal muscle glycolytic
+      potential based on a pig model
+    venue: Gene
+    year: "2020"
+  - author_list:
+      Pan, J.H., Tang, J., Kim, Y.J., Lee, J.H., Shin, E.-C., Zhao, J., Kim,
+      K.-H., Hwang, K.A., Huang, Y., Kim, J.K.
+    link: "(DOI: 10.3390/ijms21165596)"
+    review_or_book: "false"
+    title:
+      IDH2 deficiency is critical in myogenesis and fatty acid metabolism in mice
+      skeletal muscle
+    venue: Int J Mol Sci
+    year: "2020"
+  - author_list:
+      Li, R., Li, B., Jiang, A., Cao, Y., Hou, L., Zhang, Z., Zhang, X.,
+      Liu, H., Kim, K.-H., Wu, W.
+    link: "(DOI: 10.3390/genes11080883)"
+    review_or_book: "false"
+    title:
+      Exploring the lncRNAs related to skeletal muscle fiber types and meat quality
+      traits in pigs
+    venue: Genes
+    year: "2020"
+  - author_list:
+      Farias-Pereira, R., Zhang, Z., Park, C.S., Kim, D., Kim, K.-H.,Park,
+      Y.
+    link: "(DOI: 10.1002/biof.1667)"
+    review_or_book: "false"
+    title: Butein Inhibits Lipogenesis in Caenorhabditis elegans
+    venue: Biofactors
+    year: "2020"
+  - author_list: Bai, J., Farias-Pereira, R., Zhang, Y., Jang, M., Park, Y., Kim, K.-H.
+    link: "(DOI: 10.1002/biof.1666)"
+    review_or_book: "false"
+    title:
+      C. elegans ACAT regulates lipolysis and its-related lifespan in fasting through
+      modulation of the genes in lipolysis and insulin/IGF-1 signaling
+    venue: Biofactors
+    year: "2020"
+  - author_list:
+      Komanetsky, S.M., Hedrick, V., Sobreira, T., Aryal, U.K., Kim, S.Q.,
+      Kim, K.-H.
+    link: "(DOI: 10.1016/j.nutres.2020.06.009)"
+    review_or_book: "false"
+    title:
+      Proteomic identification of aerobic glycolysis as a potential metabolic target
+      for methylglyoxal in adipocytes
+    venue: Nutrition Research
+    year: "2020"
+  - author_list: Yang, J.S, Tongson, J., Kim, K.-H., Park, Y.
+    link: 3:92-99
+    review_or_book: "false"
+    title:
+      Piceatannol attenuates fat accumulation and oxidative stress in steatosis-induced
+      HepG2 cells
+    venue: Current Research in Food Science
+    year: "2020"
+  - author_list: Wang, Y., Zhang, Y., Kim, K.-H., Chen, J.
+    link: (FEDSM2020-20177)
+    review_or_book: "false"
+    title:
+      Measurements of morphology and locomotion of Caenorhabditis elegans with
+      digital holographic microscopy
+    venue: American Society of Mechanical Engineers
+    year: "2020"
+  - author_list: Jang, M., Kim, K.-H., Kim, G.-H.
+    link: "(DOI: 10.3390/antiox9030200)"
+    review_or_book: "false"
+    title:
+      Antioxidant capacity of Thistle (Cirsium japonicum) in various drying methods
+      and their protective effect on neuronal PC12 cells and Caenorhabditis elegans
+    venue: Antioxidants
+    year: "2020"
+  - author_list: Yue, Y., Shen, P., Chang, A., Qi, W., Kim, K.-H., Kim, D., Park, Y.
+    link: 10:4966-4974
+    review_or_book: "false"
+    title:
+      Trans-Trimethoxy resveratrol decreased fat accumulation dependent on fat-6
+      and fat-7 in Caenorhabditis elegans
+    venue: Food & Function
+    year: "2019"
+  - author_list: Maldonado, L., Chough, S., Bonilla, J., Kim, K.-H., Kokini, J.
+    link: 93:293-307
+    review_or_book: "false"
+    title:
+      Mechanism of fabrication and nano-mechanical properties of alpha-lactalbumin/chitosan
+      and BSA/kappa-carrageenan nanotubes through layer-by-layer assembly for curcumin
+      encapsulation and determination of in vitro cytotoxicity
+    venue: Food Hydrocolloids
+    year: "2019"
+  - author_list: Kim, C.Y., Kim, K.-H.
+    link: 23:2882
+    review_or_book: "false"
+    title:
+      Selenate prevents adipogenesis through induction of selenoprotein S and attenuation
+      of endoplasmic reticulum stress
+    venue: Molecules
+    year: "2018"
+  - author_list: Farias-Pereira, R.,Oshiro, J., Kim, K.-H., Park, Y.
+    link: 48:586-593
+    review_or_book: "false"
+    title:
+      Green coffee bean extract and 5-O-caffeoylquinic acid regulate fat metabolism
+      in Caenorhabditis elegans
+    venue: Journal of Functional Foods
+    year: "2018"
+  - author_list: Larrick, B., Kim, K.-H., Donkin, S., Teegarden, D.
+    link: 58:72-83
+    review_or_book: "false"
+    title:
+      1,25-Dihydroxyvitamin D regulates lipid metabolism and glucose utilization
+      in differentiated 3T3-L1 adipocytes
+    venue: Nutrition Research
+    year: "2018"
+  - author_list: Zhu, Y., Chen, C.-Y., Li, J., Cheng, J.-X., Jang, M., Kim, K.-H.
+    link: 59:820-829
+    review_or_book: "false"
+    title:
+      In vitro exploration of ACAT contributions to lipid droplet formation during
+      adipogenesis
+    venue: Journal of Lipid Research
+    year: "2018"
+  - author_list:
+      Shen, P., Kershaw, J.C., Yue, Y., Wang, O., Kim, K.-H., McClements,
+      D.J., Park, Y.
+    link: 249:193-201
+    review_or_book: "false"
+    title:
+      Effect of conjugated linoleic acid on fat accumulation, activity, and proteomics
+      analysis in Caenorhabditis elegans
+    venue: Food Chemistry
+    year: "2018"
+  - author_list:
+      Yang, H., Seo, S.G., Shin, S.H., Min, S., Kang M.J., Yoo, R., Kwon,
+      J.Y., Yue, S., Kim, K.-H., Cheng, J.X., Kim, J.R., Park, J.S., Kim, J.H., Park,
+      J.H.Y, Lee, H.J., Lee, K.W.
+    link: https://doi.org/10.1002/mnfr.201700119
+    review_or_book: "false"
+    title:
+      3,3'-Diindolylmethane suppresses high-fat diet-induced obesity through inhibiting
+      adipogenesis of pre-adipocytes by targeting USP2 activity
+    venue: Molecular Nutrition and Food Research 61, 1700119.
+    year: "2017"
+  - author_list: Shen, P., Yue, Y., Kim, K.-H., Park, Y.
+    link: 9:887-894
+    review_or_book: "false"
+    title: Piceatannol reduces fat accumulation in Caenorhabditis elegans
+    venue: Journal of Medicinal Food
+    year: "2017"
+  - author_list: Kershaw, J., Kim, K.-H.
+    link: 5:427-438
+    review_or_book: "true"
+    title:
+      The therapeutic potential of piceatannol, a natural stilbene, in metabolic
+      diseases-a review
+    venue: Journal of Medicinal Food
+    year: "2017"
+  - author_list: Shen, P., Yue, Y., Sun, Q., Kasireddy, N., Kim, K.-H., Park, Y.
+    link: 43:379-387
+    review_or_book: "false"
+    title: Piceatannol extends the lifespan of Caenorhabditis elegans via DAF-16
+    venue: Biofactors
+    year: "2017"
+  - author_list: Kim, C.Y., Zhu, Y., Buhman, K.K., Kim, K.-H.
+    link: 17:33-42
+    review_or_book: "false"
+    title:
+      Dietary selenate attenuates adiposity and improves insulin sensitivity in
+      high-fat diet-induced obese mice
+    venue: Journal of Functional Foods
+    year: "2015"
+  - author_list:
+      Wang, Y., Lee, K., Moon, Y.S., Ahmadian, M., Kim, K.-H., Roder, K.,
+      Kang, C., Sul, H.S.
+    link: 461:630-635
+    review_or_book: "false"
+    title:
+      Overexpression of Pref-1 in pancreatic islet beta-cells in mice causes hyperinsulinemia
+      with increased islet mass and insulin secretion
+    venue: Biochemical and Biophysical Research Communications
+    year: "2015"
+  - author_list:
+      Malaypally, S.P., Liceaga, A., Kim, K.-H., Ferruzzi, M., San Martin,
+      F., Goforth, R.
+    link: 18:1158-1166
+    review_or_book: "false"
+    title:
+      Influence of molecular weight and peptide sequence on intracellular antioxidant
+      activity of invasive Silver Carp (Hypophthalmichthys molitrix) protein hydrolysates
+    venue: Journal of Functional Foods
+    year: "2015"
+  - author_list:
+      Shin, S.H., Seo, S.G., Min, S., Yang, H., Lee, D.E., Kwon, J.Y., Yue,
+      S., Kim, K.-H., Cheng, J.-X., Lee, H.J., Lee, K.W.
+    link: 62:4306-12
+    review_or_book: "false"
+    title:
+      Caffeic acid phenethyl ester, a major component of propolis, suppresses high
+      fat diet-induced obesity through inhibiting adipogenesis at the mitotic clonal
+      expansion stage
+    venue: Journal of Agricultural and Food Chemistry
+    year: "2014"
+  - author_list: Park, J.G., Lee, D.H., Moon, Y.S., Kim, K.-H.
+    link: 446:30-6
+    review_or_book: "false"
+    title:
+      Reversine increases the plasticity of lineage-committed preadipocytes to
+      osteogenesis by inhibiting adipogenesis through induction of TGF-beta pathway
+      in vitro
+    venue: Biochemical and Biophysical Research Communications
+    year: "2014"
+  - author_list:
+      Cheng, M.W., Chegeni, M., Zhang, G., Kim, K.-H., Benmoussa, M., Quezada-Calvillo,
+      R., Nichols, B.L., Hamaker, B.R.
+    link: 54:55-60
+    review_or_book: "false"
+    title:
+      Different sucrose-isomaltase response of Caco-2 cells to glucose and maltose
+      suggests dietary maltose sensing
+    venue: J. Clinical Biochemistry and Nutrition
+    year: "2014"
+  - author_list: Kim, C.Y., and Kim, K.-H.
+    link: 25:26-35
+    review_or_book: "false"
+    title:
+      Curcumin prevents leptin-induced tight junction dysfunction in intestinal
+      Caco-2 BBe cells
+    venue: J. Nut. Biochem
+    year: "2014"
+  - author_list:
+      Seo, S.G., Shin, S.H., Min, S., Lee, D.E., Kwon, J.Y., Yang, H., Yue,
+      S., Heo, Y.S., Kim, K.-H., Cheng, J.-X., Lee, K.W., Lee, H.J.
+    link: 57:1446-55
+    review_or_book: "false"
+    title:
+      A metabolite of diadzein 6,7,4'-Trihydroxyisoflavone suppresses adipogenesis
+      in 3T3-L1 preadipocytes via ATP-competitive inhibition of PI3K
+    venue: Molecular Nutrition and Food Research
+    year: "2013"
