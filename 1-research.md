@@ -12,4 +12,11 @@ Fatty acids and cholesterol are essential for energy metabolism and are stored i
 
 To achieve these goals and develop dietary and pharmacological strategies for ameliorating obesity and related chronic health conditions, we employ multidisciplinary approaches encompassing biochemical and multi-omics techniques across various in vitro and in vivo models.
 
-<!-- TODO insert pictures here -->
+<div class="funding-imgs" style="display:flex; margin:auto; justify-content:center;">
+    <img src="../assets/img/usda.gif" alt="USDA" class="funding-img">
+    <img src="../assets/img/purdue.jpg" alt="Purdue University" class="funding-img">
+    <div style="display:flex; flex-direction:column;">
+        <img src="../assets/img/indiana_ctsi.png" alt="Indiana CTSI" class="funding-img">
+        <img src="../assets/img/agseed.png" alt="AgSEED" class="funding-img">
+    </div>
+</div>
