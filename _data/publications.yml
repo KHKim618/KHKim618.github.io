@@ -301,9 +301,9 @@ current:
       obese and lean mice
     venue: Biochem Biophys Res Commun
     year: "2022"
-  - author_list: Kim. S.Q., Kim, K.-H*.
+  - author_list: Kim, S.Q., Kim, K.-H*.
     link: (DOI:10.3390/cells11142232)
-    review_or_book: "trye"
+    review_or_book: "true"
     title:
       "Emergence of Edible Plant-Derived Nanovesicles as Functional Food Components
       and Nanocarriers for Therapeutics Delivery: Potentials in Human Health and Disease"
